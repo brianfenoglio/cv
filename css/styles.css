@@ -1,0 +1,16 @@
+    body {
+        background-color: #E2DCC8;
+        font-family: Roboto Condensed;
+    }
+    hr {
+        border-style: dotted none none;
+        border-color: lightgrey;
+        border-width: 7px;
+        width: 4%;
+    }
+    h1 {
+        color: #0F3D3E;
+    }
+    h3 {
+        color: #0F3D3E;
+    }
